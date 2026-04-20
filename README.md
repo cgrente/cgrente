@@ -10,7 +10,7 @@ I mostly work on:
 
 Currently:
 - Building a production AI SDR agent with structured workflows, human-in-the-loop approval, and evaluation pipelines (LangGraph, FastAPI, Celery, Postgres/pgvector)
-- Working on Aperis ![aperis.io](http://aperis.io/) — a distributed job orchestration platform integrating external compute providers (IonQ, AWS Braket)
+- Working on Aperis http://aperis.io/ — a distributed job orchestration platform integrating external compute providers (IonQ, AWS Braket)
 
 I enjoy projects where architecture, data, and long-term maintainability matter,
 and where learning and improving systems is part of the work.
